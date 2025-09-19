@@ -1,4 +1,6 @@
 # QR Code Component
+  
+![Imagem de exempro do projeto](./assets/apresentação.jpg)
 
 Este é um projeto de componente de QR Code, desenvolvido como parte de um desafio do [Frontend Mentor](https://www.frontendmentor.io/).  
 O objetivo é praticar **HTML5**, **CSS3** e o uso de um **Design System** com medidas, espaçamentos, cores e tipografia específicas, buscando atingir o resultado mais próximo possível do design original (pixel perfect).
