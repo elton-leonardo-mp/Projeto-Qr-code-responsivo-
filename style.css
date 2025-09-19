@@ -1,0 +1,55 @@
+/* Reset de padrôes */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #D3E1EF; 
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Container principal */
+#container {
+  width: 320px;
+  height: 499px;
+  background-color: #FFFFFF; 
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+/* Imagem QR */
+#imagem img {
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Textos */
+#textos {
+  margin-top: 24px;
+}
+
+#textos h1 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 120%; 
+  color: #1F314F; 
+  margin-bottom: 16px;
+}
+
+#textos p {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 140%; 
+  color: #7D889E; 
+}
